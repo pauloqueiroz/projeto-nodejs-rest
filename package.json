@@ -1,0 +1,25 @@
+{
+  "name": "projeto-nodejs-rest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pauloqueiroz/projeto-nodejs-rest.git"
+  },
+  "author": "Paulo Sérgio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pauloqueiroz/projeto-nodejs-rest/issues"
+  },
+  "homepage": "https://github.com/pauloqueiroz/projeto-nodejs-rest#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.12",
+    "save-dev": "^0.0.1-security"
+  }
+}
